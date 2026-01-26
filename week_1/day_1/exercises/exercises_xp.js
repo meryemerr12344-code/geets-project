@@ -1,5 +1,5 @@
 // ===== Exercise 1
-//console.log("Hello World");
+console.log("Hello World");
 // ===== Exercise 2
 
 // ===== Exercise 3
